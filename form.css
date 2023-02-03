@@ -1,0 +1,26 @@
+form {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    padding-right: 10px;
+  }
+  
+  input[type="text"] {
+    width: 300px;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  input[type="submit"] {
+    width: 150px;
+    padding: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
